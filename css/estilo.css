@@ -4,13 +4,13 @@
     box-sizing: border-box;
 }
 body{
-    background: url(../imagenes/blue-paint-wall-background-texture.jpg);
+    background: url(../imagenes/fondo\ texturizado.jpg);
     background-size: 100%;
     font-family: cursive;
     position: relative;
     padding-bottom: 3rem;
     min-height: 100vh;
-    color: white;
+    color: black;
 }
 
 .menu{

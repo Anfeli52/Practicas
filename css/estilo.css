@@ -49,18 +49,18 @@ body{
     text-decoration: none;
     opacity: 100%;
     font-size: larger;
-    color: white;
+    color: black;
     font-weight: bold;
 }
 
 #nav ul li span{
     font-weight: bold;
     font-size: larger;
-    color: white;
+    color: black;
 }
 
 #nav ul li a:hover{
-    color: chartreuse;
+    color: gold;
 }
 
 #footer{
@@ -74,5 +74,5 @@ body{
 
 #footer span{
     font-weight: bold;
-    color: white;
+    color: black;
 }

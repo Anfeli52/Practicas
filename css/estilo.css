@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background: url(../imagenes/fondo\ texturizado.jpg);
+    background: url(../imagenes/fondotexturizado.jpg);
     background-size: 100%;
     font-family: cursive;
     position: relative;
@@ -70,6 +70,7 @@ body{
     position: absolute;
     bottom: 0;
     width: 100%;
+    opacity: 85%;
 }
 
 #footer span{
